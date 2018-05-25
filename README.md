@@ -10,6 +10,8 @@
 
 * [about](docs/README.md#about-cle)
 * [repository structure](docs/README.md#the-structure)
+* [video preview](docs/README.md#video-preview)
+* [the team](docs/README.md#the-team)
 * [support and contact](docs/README.md#contact)
 * [social network](docs/README.md#links)
 
@@ -58,10 +60,27 @@ CAM4 - renders image type aka canvas
 :open_file_folder: This github repository is holding some of the graphic resources and a few testing markup codes
 
 * mdes - markup codes directory
-  1. tdescb  / markup for CB
-  2. tdesm  / markup for MFC
+  * tdescb  / markup for CB
+  * tdesm  / markup for MFC
 * ptcb - graphics for Chaturbate
 * ptmfc - graphics for MyFreeCams
+
+
+### Video Preview
+
+:arrow_forward: This is a short video showing the editor tool in action. Editing [Mellany MyFreeCams profile design](https://camgirl.xniteproductions.com/cb-profiler/template/?id=17546)
+
+[![Video](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/serenity_1.jpg)](https://www.youtube.com/watch?v=T5eep36Cubg)
+
+### The Team
+
+| Support        | Development           | Webdesign  |
+| ------------- |:-------------| -----:|
+| :fr: Raphael D      | Raphael D | Dan N |
+| :us: Dan N      | n/a      |   n/a |
+| RO Dellany E | n/a      |    Dellany E |
+
+Want to join our team? Feel free to contact us and [submit your request](https://camgirl.xniteproductions.com/cb-profiler/jobs/)
 
 
 ### Contact
@@ -73,4 +92,4 @@ CAM4 - renders image type aka canvas
 
 :link: CLE is active on social networks and other platforms:
 
-[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/)
+[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/redglove/)
