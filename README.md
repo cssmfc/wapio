@@ -33,7 +33,8 @@ Camsoda templates - HTML with in-line CSS markup
 
 CAM4 - renders image type aka canvas
 
-    > CAM4 does not support markup type of edditing in Bio section but Camgirl Live Editor templates available for CAM4 are made with HTML/CSS generating the image output
+    > CAM4 does not support markup type of edditing in Bio section but Camgirl Live Editor templates 
+    > available for CAM4 are made with HTML/CSS generating the image output
 
 
 ### The Structure
