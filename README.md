@@ -24,10 +24,15 @@ Basded on each platform, the online editing tool renders different markup codes.
 For example, a MyFreeCams template, in editing mode will render both **HTML** and additional **CSS** markup.
 
 MyFreeCams templates - HTML plus additional CSS stylesheet
+
 Chaturbate templates - HTML with in-line CSS markup
+
 Niteflirt templates - HTML with in-line CSS markup
+
 Camsoda templates - HTML with in-line CSS markup
+
 CAM4 - renders image type aka canvas
+
     > CAM4 does not support markup type of edditing in Bio section but Camgirl Live Editor templates available for CAM4 are made with HTML/CSS generating the image output
 
 
