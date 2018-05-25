@@ -1,6 +1,5 @@
 # CLE - Assets 
 
-*wapio - a generic name given by my 3yo san because is having difficulties in pronouncing the word umbrella :umbrella:*
 
 
 
@@ -11,6 +10,7 @@
 * [about](docs/README.md#about-cle)
 * [repository structure](docs/README.md#the-structure)
 * [video preview](docs/README.md#video-preview)
+* [services](docs/README.md#cle-services)
 * [the team](docs/README.md#the-team)
 * [support and contact](docs/README.md#contact)
 * [social network](docs/README.md#links)
@@ -72,6 +72,35 @@ CAM4 - renders image type aka canvas
 
 [![Video](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/serenity_1.jpg)](https://www.youtube.com/watch?v=T5eep36Cubg)
 
+
+## CLE Services
+
+
+Available Resources
+The Editor's functionality offers a wide variety of implemented resources like uploading and replacing graphic elements (images), Import custom designs for different platforms, edit and save custom projects for most popular websites.
+
+Full list of services and related resources:
+
+* Chaturbate bio templates
+* MyFreeCams profile page designs
+* Quickstart - Importing designs for MFC and CB platforms
+* Cam4 designs - using canvas/meme type of output
+* Niteflirt bio designs
+* Meme editable graphics - output as download-able image files
+* Standalone widgets - custom editable sections
+* Email templates - ready made email designs
+* Camsoda bio designs
+* Tailored
+* Upload images
+
+**Available Apps**
+The tool is using API based connectivity which makes a bridge between popular services and our service. In this context, the Editor can connect to social media services, payment services, blogging services using encrypted and secure connections.
+
+As a registered user of CLE service, the APPs can help you import media from other accounts you have
+
+To access and use the APPs follow suggested path:
+(Registered/Login required) Click on your Avatar from the top right corner of the web page, a drop-down menu will be visible, select/click on Connected Apps ([see screen-shot](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/cleditor%2Bapps%2Baccess.jpeg))
+
 ### The Team
 
 | Support        | Development           | Webdesign  |
@@ -92,4 +121,4 @@ Want to join our team? Feel free to contact us and [submit your request](https:/
 
 :link: CLE is active on social networks and other platforms:
 
-[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/redglove/)
+[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [YouTube](https://www.youtube.com/channel/UCbJQMNUNpK1Pt-uGyOq7iQw) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/redglove/)
