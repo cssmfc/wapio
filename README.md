@@ -1,6 +1,6 @@
 # CLE - Assets 
 
-*wapio - a generic name given by my 3yo san because is having difficulties in pronouncing the word umbrella*
+*wapio - a generic name given by my 3yo san because is having difficulties in pronouncing the word umbrella :umbrella:*
 
 ### About CLE
 
