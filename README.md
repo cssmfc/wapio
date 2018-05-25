@@ -2,6 +2,21 @@
 
 *wapio - a generic name given by my 3yo san because is having difficulties in pronouncing the word umbrella :umbrella:*
 
+
+
+### Index
+
+:bar_chart: Fast navigation
+
+* [about](docs/README.md#about-cle)
+* [repository structure](docs/README.md#the-structure)
+* [support and contact](docs/README.md#contact)
+* [social network](docs/README.md#links)
+
+
+
+
+
 ### About CLE
 
 CLE stands for [Camgirl Live Editor](https://camgirl.xniteproductions.com/cb-profiler/), an online project developed by Raphael D. and Dan N.
@@ -11,6 +26,7 @@ CLE stands for [Camgirl Live Editor](https://camgirl.xniteproductions.com/cb-pro
 *Camgirl Live Editor is a professional tool which allow customization and editing of a wide range of templates from pre designed gallery without writing a single line of code.*
 
 Basically it's an online template editor for webcam performers working with different platforms/ live stream websites.
+
 
 **Camgirl Live Editor** is providing editable templates for:
 
@@ -39,6 +55,22 @@ CAM4 - renders image type aka canvas
 
 ### The Structure
 
-This github repository is holding some of the graphic resources and a few testing markup codes
+:open_file_folder: This github repository is holding some of the graphic resources and a few testing markup codes
 
-For questions, feedback, suggestions, feel free to contact the support staff 
+* mdes - markup codes directory
+ --1. tdescb  / markup for CB
+ --2. tdesm  / markup for MFC
+* ptcb - graphics for Chaturbate
+* ptmfc - graphics for MyFreeCams
+
+
+### Contact
+
+:mailbox_with_no_mail: For questions, feedback, suggestions, feel free to contact the [support staff](https://camgirl.xniteproductions.com/cb-profiler/contact/) 
+
+
+### Links 
+
+:link: CLE is active on social networks and other platforms:
+
+[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/)
