@@ -58,8 +58,8 @@ CAM4 - renders image type aka canvas
 :open_file_folder: This github repository is holding some of the graphic resources and a few testing markup codes
 
 * mdes - markup codes directory
- --1. tdescb  / markup for CB
- --2. tdesm  / markup for MFC
+  1. tdescb  / markup for CB
+  2. tdesm  / markup for MFC
 * ptcb - graphics for Chaturbate
 * ptmfc - graphics for MyFreeCams
 
