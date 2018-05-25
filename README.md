@@ -7,13 +7,13 @@
 
 :bar_chart: Fast navigation
 
-* [about](docs/README.md#about-cle)
-* [repository structure](docs/README.md#the-structure)
-* [video preview](docs/README.md#video-preview)
-* [services](docs/README.md#cle-services)
-* [the team](docs/README.md#the-team)
-* [support and contact](docs/README.md#contact)
-* [social network](docs/README.md#links)
+* [about](master/README.md#about-cle)
+* [repository structure](master/README.md#the-structure)
+* [video preview](master/README.md#video-preview)
+* [services](master/README.md#cle-services)
+* [the team](master/README.md#the-team)
+* [support and contact](master/README.md#contact)
+* [social network](master/README.md#links)
 
 
 
