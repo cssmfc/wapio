@@ -21,7 +21,7 @@
 
 ### About CLE
 
-CLE stands for [Camgirl Live Editor](https://camgirl.xniteproductions.com/cb-profiler/), an online project developed by Raphael D. and Dan N.
+CLE stands for [Camgirl Live Editor](https://camgirl.cloud/), an online project developed by Raphael D. and Dan N.
 
 ![alt text](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/1a.png "Camgirl Live Editor")
 
@@ -109,16 +109,16 @@ To access and use the APPs follow suggested path:
 | :us: Dan N      | n/a      |   n/a |
 | RO Dellany E | n/a      |    Dellany E |
 
-Want to join our team? Feel free to contact us and [submit your request](https://camgirl.xniteproductions.com/cb-profiler/jobs/)
+Want to join our team? Feel free to contact us and [submit your request](https://camgirl.cloud/jobs/)
 
 
 ### Contact
 
-:mailbox_with_no_mail: For questions, feedback, suggestions, feel free to contact the [support staff](https://camgirl.xniteproductions.com/cb-profiler/contact/) 
+:mailbox_with_no_mail: For questions, feedback, suggestions, feel free to contact the [support staff](https://camgirl.cloud/contact/) 
 
 
 ### Links 
 
 :link: CLE is active on social networks and other platforms:
 
-[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [YouTube](https://www.youtube.com/channel/UCbJQMNUNpK1Pt-uGyOq7iQw) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/redglove/)
+[Twitter](https://www.twitter.com/CSSMFC) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [YouTube](https://www.youtube.com/channel/UCbJQMNUNpK1Pt-uGyOq7iQw) | [Website](https://camgirl.cloud/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/redglove/)
