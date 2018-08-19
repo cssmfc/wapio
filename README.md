@@ -68,7 +68,7 @@ CAM4 - renders image type aka canvas
 
 ### Video Preview
 
-:arrow_forward: This is a short video showing the editor tool in action. Editing [Mellany MyFreeCams profile design](https://camgirl.xniteproductions.com/cb-profiler/template/?id=17546)
+:arrow_forward: This is a short video showing the editor tool in action. Editing [Mellany MyFreeCams profile design](https://camgirl.cloud/template/?id=17546)
 
 [![Video](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/serenity_1.jpg)](https://www.youtube.com/watch?v=T5eep36Cubg)
 
