@@ -107,7 +107,7 @@ To access and use the APPs follow suggested path:
 | ------------- |:-------------| -----:|
 | :fr: Raphael D      | Raphael D | Dan N |
 | :us: Dan N      | n/a      |   n/a |
-| RO Dellany E | n/a      |    Dellany E |
+| :romania: Dellany E | n/a      |    Dellany E |
 
 Want to join our team? Feel free to contact us and [submit your request](https://camgirl.cloud/jobs/)
 
