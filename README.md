@@ -21,7 +21,7 @@
 
 ### About CLE
 
-CLE stands for [Camgirl Live Editor](https://camgirl.xniteproductions.com/cb-profiler/), an online project developed by Raphael D. and Dan N.
+CLE stands for [Camgirl Live Editor](https://camgirl.cloud/), an online project developed by Raphael D. and Dan N.
 
 ![alt text](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/1a.png "Camgirl Live Editor")
 
@@ -68,7 +68,7 @@ CAM4 - renders image type aka canvas
 
 ### Video Preview
 
-:arrow_forward: This is a short video showing the editor tool in action. Editing [Mellany MyFreeCams profile design](https://camgirl.xniteproductions.com/cb-profiler/template/?id=17546)
+:arrow_forward: This is a short video showing the editor tool in action. Editing [Mellany MyFreeCams profile design](https://camgirl.cloud/template/?id=17546)
 
 [![Video](https://raw.githubusercontent.com/cssmfc/wapio/master/mdes/serenity_1.jpg)](https://www.youtube.com/watch?v=T5eep36Cubg)
 
@@ -107,18 +107,20 @@ To access and use the APPs follow suggested path:
 | ------------- |:-------------| -----:|
 | :fr: Raphael D      | Raphael D | Dan N |
 | :us: Dan N      | n/a      |   n/a |
-| RO Dellany E | n/a      |    Dellany E |
+| :romania: Dellany E | n/a      |    Dellany E |
 
-Want to join our team? Feel free to contact us and [submit your request](https://camgirl.xniteproductions.com/cb-profiler/jobs/)
+Want to join our team? Feel free to contact us and [submit your request](https://camgirl.cloud/jobs/)
 
 
 ### Contact
 
-:mailbox_with_no_mail: For questions, feedback, suggestions, feel free to contact the [support staff](https://camgirl.xniteproductions.com/cb-profiler/contact/) 
+:mailbox_with_no_mail: For questions, feedback, suggestions, feel free to contact the [support staff](https://camgirl.cloud/contact/) 
 
 
 ### Links 
 
 :link: CLE is active on social networks and other platforms:
 
+
 [Twitter](https://www.twitter.com/CamgirlCloud) | [Facebook Group](https://www.facebook.com/groups/xniteproductions/) | [YouTube](https://www.youtube.com/channel/UCbJQMNUNpK1Pt-uGyOq7iQw) | [Website](https://camgirl.xniteproductions.com/cb-profiler/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/redglove/)
+
