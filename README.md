@@ -122,5 +122,5 @@ Want to join our team? Feel free to contact us and [submit your request](https:/
 :link: CLE is active on social networks and other platforms:
 
 
-[Twitter](https://www.twitter.com/CamgirlCloud) | [Facebook Group]https://www.facebook.com/groups/camgirl.cloud/) | [YouTube](https://www.youtube.com/c/CamgirlLiveEditor) | [Website](https://camgirl.cloud/editor/) | [XBIZ.TV/CamgirlCloud](https://www.xbiz.tv/channel/1479112767/CamgirlCloud/)|[Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/in/?track=default&tour=O1Tt&campaign=27j67&room=redglove)
+[Twitter](https://www.twitter.com/CamgirlCloud) | [Facebook Group](https://www.facebook.com/groups/camgirl.cloud/) | [YouTube](https://www.youtube.com/c/CamgirlLiveEditor) | [Website](https://camgirl.cloud/editor/) | [XBIZ.TV/CamgirlCloud](https://www.xbiz.tv/channel/1479112767/CamgirlCloud/) | [Reddit](https://www.reddit.com/r/CamgirlLiveEditor/) | :underage: [on Chaturbate](https://chaturbate.com/in/?track=default&tour=O1Tt&campaign=27j67&room=redglove)
 
